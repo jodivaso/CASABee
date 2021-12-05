@@ -419,8 +419,8 @@ class App():
                     x, y, = self.CanvasBee.canvas.coords(id_number)
                     if (x <= event.x + 10 and x >= event.x - 10 and y >= event.y - 10 and y <= event.y + 10):
                         n = self.CanvasBee.canvas.itemcget(id_number, 'text')
-                        number = simpledialog.askinteger("Number of contours?",
-                                                         "Please enter the correct number of contours (current " + str(
+                        number = simpledialog.askinteger("Number of sperms?",
+                                                         "Please enter the correct number of static sperms in the contour (current " + str(
                                                              n) + ")",
                                                          parent=self.content, minvalue=0, maxvalue=35)
                         self.CanvasBee.canvas.itemconfig(id_number, text=number)
