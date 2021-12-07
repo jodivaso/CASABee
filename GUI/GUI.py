@@ -146,7 +146,7 @@ class App():
 
         separator1 = ttk.Separator(options, orient=HORIZONTAL)
 
-        mediumCellSizeLabel = ttk.Label(options, text="Medium cell size")
+        mediumCellSizeLabel = ttk.Label(options, text="Mean cell size")
         mediumCellSizeSpinBox = ttk.Spinbox(options, from_=200.0, to=400.0, increment=10.0,
                                             textvariable=self.options.mediumCellSize)
         # boundingBoxMinAreaLabel = ttk.Label(options, text="BoundingBox MinArea")
@@ -526,7 +526,7 @@ class App():
 
     def export_csv(self):
         f = filedialog.asksaveasfile(mode='w', defaultextension=".csv")
-        f.write("FileName;MinRadius;MaxRadius;Param1;Param2;MediumCellSize;Scale;CameraHeigh;DiluentParts;TotalSperms;TotalStatic;TotalMotile;MotilePercentage;Concentration\n")
+        f.write("FileName;MinRadius;MaxRadius;Param1;Param2;MeanCellSize;Scale;CameraHeigh;DiluentParts;TotalSperms;TotalStatic;TotalMotile;MotilePercentage;Concentration\n")
         l = self.miniatures.list_videos
         for analyzed_video in l:
             total_static = sum(n for (_, n) in analyzed_video.contours)
