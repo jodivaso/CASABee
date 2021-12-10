@@ -12,7 +12,9 @@ CASABee is an open-source tool devoted to the analysis of the sperm motility and
 - Generation of videos where motile and static sperms are tracked
 - Result can be exported to a CSV file
 
-## Installation and Execution
+## Installation and Execution from sources
+
+Python (version 3.8 or higher) and ```pip``` must be installed previously.
 
 The following commands clone the repository, install the requirements and execute the program.
 
