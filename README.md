@@ -16,8 +16,8 @@ The following commands clone the repository, install the requirements and execut
 
 ```
 git clone https://github.com/jodivaso/CASABee.git
-pip install -r requirements.txt
 cd CASABee
+pip install -r requirements.txt
 python3 CASABee.py
 ```
 
