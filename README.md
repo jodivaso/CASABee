@@ -2,6 +2,8 @@
 
 CASABee is an open-source tool devoted to the analysis of the sperm motility and concentration in honey bee drones.
 
+![](https://raw.githubusercontent.com/jodivaso/CASABee/master/readme_video.gif)
+
 ## Features
 
 - Automatic detection and tracking of motile and static sperms from videos
