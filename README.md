@@ -71,6 +71,11 @@ The default parameters works well in most cases, but one can also tune the param
 - Camera height
 - Diluent parts
 
+## Icons
+
+- The open-video icon was obtained from [Papirus development team](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/)
+- The bee icon was obtained from [Flaticon](www.flaticon.com)
+
 ## Acknowledgements
 
 This work was supported by the Spanish MINECO (grants PID2020-112673RB-100 and PID2020-116641GB-I00), and the DGA-FSE (grant A07_17R)
