@@ -27,9 +27,13 @@ python3 CASABee.py
 
 ## Binary Files
 
-Alternatively, you can obtain the binary files for Windows 10 (64bits) [here.](https://unirioja-my.sharepoint.com/:u:/g/personal/jodivaso_unirioja_es/EdFpy_dr4IRFlGWBS0pqf8MBLh2VQgvI_NmmbvA-2p11ow?e=zAnGkF)
+Alternatively, you can obtain the binary files for Windows 10 (64bits) [here.](https://unirioja-my.sharepoint.com/:u:/g/personal/jodivaso_unirioja_es/EdFpy_dr4IRFlGWBS0pqf8MBLh2VQgvI_NmmbvA-2p11ow?e=kUpUhB)
 
 Just download it, unzip and execute CASABee.exe.
+
+## Sample videos
+
+[Click here](https://unirioja-my.sharepoint.com/:u:/g/personal/jodivaso_unirioja_es/Ec_bYG1GmfBDrP6elcl-ovEBkJRsTxuOajCulgTYijaCLA?e=R15hsG) to download some sample videos to test the application
 
 ## Specifications
 
