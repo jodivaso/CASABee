@@ -54,6 +54,7 @@ The last button of the top bar is the edit mode. Once a video is selected, in th
 - Pressing the key ```h``` one can hide the labels and see the first frame of the video. Releasing the key makes the labels appear again
 - New motile sperms can be added by clicking on a point (the center) and dragging to select the radio
 - Motile sperms can be deleted: right-click on the center
+- Motile sperms can be moved: left-click on the center to select the sperm to be moved, drag and drop to the new position.
 - New static sperms can be added: double click on the initial point, click on the next point, click on the next point and so on until finishing with a double-click
 - For each cluster of static sperms, there appears the estimated number in magent. One can modify the number by clicking on it
 - Each cluster is coloured in yellow when hovering over it
